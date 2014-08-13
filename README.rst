@@ -13,7 +13,7 @@ From GitHub
 
 Run the command::
 
-    pip install https://github.com/jleeothon/oriflamme.git
+    pip install git+git://github.com/jleeothon/oriflamme.git
 
 Packaging yourself
 ~~~~~~~~~~~~~~~~~~
