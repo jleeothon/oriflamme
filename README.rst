@@ -52,3 +52,7 @@ Instead of repeating the forementioned lines, you can add the flags in a single 
     class CreateCookieView(FlagMixin, CreateView):
     
         template_flags = ('is_creating', 'should_show_red_button')
+
+..
+
+    You can use this in custom parent class-based views, or individual class-based views as needed.
