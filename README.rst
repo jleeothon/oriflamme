@@ -6,8 +6,6 @@ Django class-based views with flags.
 How to install
 --------------
 
-**Warning:** not tested yet. I think it doesn't quite work.
-
 From GitHub
 ~~~~~~~~~~~
 
